@@ -9,7 +9,6 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-  // insert code here...
   printf("Hello, World!\n");
   float a =100.12311;
   double b =100.12311;
